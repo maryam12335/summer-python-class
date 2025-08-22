@@ -62,8 +62,4 @@ def main():
 
         elif choice == '5':  # Option to exit
             print('Exiting the program.')
-            break  # Break out of loop and end program
-
-
-# Run the program
-main()
+            break  # Break out of loop and end pr
