@@ -1,3 +1,3 @@
 # Python Projects
 
-This repo will contain all my projects in the summer coding class
+My second project as a learner
